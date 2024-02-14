@@ -61,11 +61,11 @@
     padding-right: 72px;
     position: relative;
     margin-top: 36px;
-    height: 1000px;
+    height: 700px;
 }
 
 .img-cont img{
-    width: 100%;
+    max-width: 100%;
     position: absolute;
     top: 0;
     left: 0;
